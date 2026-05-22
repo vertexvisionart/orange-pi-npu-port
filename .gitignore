@@ -1,0 +1,21 @@
+*.swp
+*.swo
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+
+# binaries / archives — never publish
+*.bin
+*.ko
+*.tar
+*.tar.gz
+*.tar.xz
+*.zip
+*.img
+*.img.xz
+
+# vendor docs (NDA risk)
+*.pdf
